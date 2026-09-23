@@ -1,0 +1,6 @@
+.env*
+*.token
+*.sqlite*
+__pycache__/
+node_modules/
+.venv/

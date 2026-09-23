@@ -1,0 +1,6 @@
+{
+  "name": "erpnext-governed-classroom", "version": "0.1.0", "private": true,
+  "type": "module", "engines": {"node": ">=24"},
+  "scripts": {"test": "node --test test/*.test.mjs", "demo": "node demo.mjs", "server": "node server.mjs", "approval": "node approval-cli.mjs"},
+  "dependencies": {"@modelcontextprotocol/sdk": "1.30.0", "zod": "3.25.76", "@langfuse/tracing": "5.11.1", "@langfuse/otel": "5.11.1", "@opentelemetry/sdk-node": "0.222.0", "@opentelemetry/sdk-trace-base": "2.11.0"}
+}

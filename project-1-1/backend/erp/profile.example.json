@@ -1,0 +1,7 @@
+{
+  "principal": "classroom-buyer", "erpUser": "accounts_user@example.com",
+  "scope": "overridden-by-verified-erp-origin",
+  "company": "Agentify Demo Co", "currency": "USD", "maxAmount": 500,
+  "suppliers": ["Globex"], "docTypes": ["Purchase Invoice", "Item", "Supplier", "Company"],
+  "reports": [], "actions": ["erp.query", "erp.get", "erp.create_draft", "erp.submit"]
+}

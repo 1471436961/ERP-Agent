@@ -1,0 +1,6 @@
+.git
+.env*
+*.token
+**/__pycache__
+**/node_modules
+**/*.sqlite*

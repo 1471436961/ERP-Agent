@@ -1,0 +1,7 @@
+{
+  "principal": "classroom-reader", "erpUser": "sales_user@example.com",
+  "scope": "overridden-by-verified-erp-origin",
+  "company": "Agentify Demo Co", "currency": "USD", "maxAmount": 0,
+  "suppliers": [], "docTypes": ["Sales Order", "Sales Invoice", "Item"],
+  "reports": [], "actions": ["erp.query", "erp.get"]
+}
