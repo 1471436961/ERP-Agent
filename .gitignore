@@ -1,0 +1,15 @@
+# Controlled-distribution document may contain credentials.
+/ERP Agent.pdf
+# Separate upstream checkouts and local runtime state.
+/erpnext/
+/frappe_docker/
+/openworker/
+**/config.private.*.json
+**/.runtime/
+**/.env
+**/.env.*
+!**/.env.example
+**/node_modules/
+**/.venv/
+**/__pycache__/
+**/*.sqlite*

@@ -1,0 +1,7 @@
+diff --git a/pwd.yml b/pwd.yml
+index 2e06b25..d0a5599 100644
+--- a/pwd.yml
++++ b/pwd.yml
+@@ -128 +128 @@ services:
+-      - "8080:8080"
++      - "127.0.0.1:8080:8080"
