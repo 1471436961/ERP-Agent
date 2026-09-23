@@ -1,0 +1,8 @@
+{
+  "ERP_URL": "http://localhost:8080",
+  "ERP_USER": "<restricted-user-email>",
+  "ERP_API_KEY": "<api-key>",
+  "ERP_API_SECRET": "<api-secret>",
+  "COMPANY": "<actual-company-name>",
+  "CURRENCY": "<actual-currency>"
+}
